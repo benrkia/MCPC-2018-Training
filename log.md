@@ -13,7 +13,9 @@ Here you will find the log of my entire training.
 \
 I've read the Sheet's info & FAQ, then i started solving CF-A problems.
 \
-This is my copy of the [Sheet](https://docs.google.com/spreadsheets/d/1qXqshJ3dKZpJuw8_fL6NJQuMdYwK5T8K8aUqY_v-_Dw/edit?usp=sharing)
+This is my copy of the [Sheet](https://docs.google.com/spreadsheets/d/1qXqshJ3dKZpJuw8_fL6NJQuMdYwK5T8K8aUqY_v-_Dw/edit?usp=sharing).
+\
+Get to know about two pointers and apply it for [CF381-D2-A](http://codeforces.com/contest/381/problem/A).
 
 ---
 
