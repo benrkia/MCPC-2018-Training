@@ -19,9 +19,22 @@ Get to know about two pointers and apply it for [CF381-D2-A](http://codeforces.c
 
 ---
 
-> `DAY 1` : August 16, 2018
-**description :** 
+> `DAY 1` : August 17, 2018
+**description :** Measuring Algorithms Performance + Elementary Math
 
-**Thoughts :**
+**Thoughts :** It was kinda revision.
+\
+I participated in codeforces contest.
+
+---
+
+> `DAY 2` : August 18, 2018
+**description :** Learn basic number theory (skype call with experienced friend from mcpc).
+
+**Thoughts :** He taught us Modular arithmetic.
+\
+I also learnt Combinatorics by watching some videos (and from wikipedia).
+\
+I participated in codeforces educational round.
 
 ---
