@@ -55,6 +55,6 @@ solving problems in [MCPCRR] Week#1: this is a challenge lunched by our communit
 \
 I learnt some new stuff in number theory **[Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)**, **[Quadratic sieve](https://en.wikipedia.org/wiki/Quadratic_sieve)**.
 \
-I also learnt new data structure [Trie](https://en.wikipedia.org/wiki/Trie).
+I also learnt new data structures **[Trie](https://en.wikipedia.org/wiki/Trie)** and **[Segment tree](https://en.wikipedia.org/wiki/Segment_tree)**.
 
 ---
