@@ -45,6 +45,8 @@ I participated in codeforces educational round.
 **Thoughts :** I participated in codeforces' round and increased my rating for the 1st time since a while (i was always afraid from participating, but i decided that i'll participate in every round).
 \
 solving problems in [MCPCRR] Week#1: this is a challenge lunched by our community (contest each week of 20 problems) in order to be ready for the next MCPC.
+\
+i learnt largest increasing subsequence.
 
 ---
 
@@ -56,5 +58,27 @@ solving problems in [MCPCRR] Week#1: this is a challenge lunched by our communit
 I learnt some new stuff in number theory **[Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)**, **[Quadratic sieve](https://en.wikipedia.org/wiki/Quadratic_sieve)**.
 \
 I also learnt new data structures **[Trie](https://en.wikipedia.org/wiki/Trie)** and **[Segment tree](https://en.wikipedia.org/wiki/Segment_tree)**.
+
+---
+
+> `DAY 5` : August 21, 2018
+**description :** Continue with the mcpc training contest.
+
+**Thoughts :** today i applied what i've learned in number theory by solving a new problem in the training contest.
+\
+I also learnt my first game theory algorithm and apply it to solve a problem in the training contest.
+\
+I also learnt one of the most used algorithm in competitive programming (KMP string matching) in order to solve a problem in the training contest.
+
+---
+
+> `DAY 6` : August 22, 2018
+**description :** Today is Eid Al Adha here in morocco, so Happy eid for all moroccan and muslims.
+
+**Thoughts :** I reached the 7th place by solving 13 problems out of 20, i'm realy proud of what i've done, in this 3 days of contest i learnt more than 3 new algorithms and apply them.
+\
+today i solved one problem using **[Bipartite](https://en.wikipedia.org/wiki/Bipartite_graph)**, and graph coloring.
+\
+in this problem i used bipartite graph to check if my graph can be colored using 2 colors or not.
 
 ---
