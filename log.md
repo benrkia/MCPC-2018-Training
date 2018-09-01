@@ -82,3 +82,54 @@ today i solved one problem using **[Bipartite](https://en.wikipedia.org/wiki/Bip
 in this problem i used bipartite graph to check if my graph can be colored using 2 colors or not.
 
 ---
+
+> `DAY 7` : August 23, 2018
+**description :** Continue with the contest i'm now the 7th by solving 14 problems.
+
+**Thoughts :** Today i used **[Dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)** to solve a problem.
+\
+i also learnt how to use dynamic programming on strings.
+
+---
+
+> `DAY 8` : August 25, 2018
+**description :** Back to the sheet and Hackerearth.
+
+**Thoughts :** continue the sheet's problem, and for new topic i used hackerearth to learn and to apply. (i learnt some new maths).
+
+---
+
+> `DAY 9` : August 26, 2018
+**description :** Number theory 1 from Hackerearth.
+
+**Thoughts :** I've completed the 1st part of number theory from Hackerearth, it was really great and enjoying. i learnt lot of new technics (since almost i knew all the subtopics already, but now i know the best ways to implement them.
+
+---
+
+> `DAY 10` : August 27, 2018
+**description :** Complete the NON-LINEAR DS WITH BUILT-IN LIBRARIES.
+
+**Thoughts :** I've completed the 3rd part of section 2 from competitive programming 3rd edition, where i learnt **[BST](https://en.wikipedia.org/wiki/Binary_search_tree)**, **[Self-balancing binary search tree](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree)** and **[Priority queue](https://en.wikipedia.org/wiki/Priority_queue)**.
+
+---
+
+> `DAY 11` : August 30, 2018
+**description :** Solve all the exercices of the section.
+
+**Thoughts :** In order to revise what i've learnt i solved all the exercices of the section 2.3.
+
+---
+
+> `DAY 12` : August 31, 2018
+**description :** Solve UVA problem that has relation with the studied section.
+
+**Thoughts :** To apply what i've learnt in real problems, i've solved the starred problems of the studied section (2.3).
+
+---
+
+> `DAY 13` : September 1, 2018
+**description :** CP Jam the 2nd edition.
+
+**Thoughts :** An event organized by the moroccan competitive programming community, where i've learnt new topic (Square Root Decomposition with some application).
+\
+And we've done a contest where i've solved 4 problems out of 7, which is a big improvement for me :).

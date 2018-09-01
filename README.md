@@ -17,5 +17,8 @@ this folder will contain all **UVa Online Judge** problems that i solved during 
 > [Hackerrank](Hackerrank/)
 this folder will contain all **Hackerrank** problems that i solved during this training.
 
+> [Hackerearth](Hackerearth/)
+this folder will contain all **Hackerearth** problems that i solved during this training.
+
 ## My Goal
 ***My Goal for this year (1st participation as official), is to WIN. even it's hard regarding my short in experience in competitive programming. But i'll do my best to achieve my goal.***
