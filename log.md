@@ -133,3 +133,12 @@ i also learnt how to use dynamic programming on strings.
 **Thoughts :** An event organized by the moroccan competitive programming community, where i've learnt new topic (Square Root Decomposition with some application).
 \
 And we've done a contest where i've solved 4 problems out of 7, which is a big improvement for me :).
+
+---
+
+> `DAY 14` : September 2, 2018
+**description :** Continue with CP 3rd edition.
+
+**Thoughts :** Today i started with Data Structures with Our Own Libraries section, i finished the 2.4.1 section (Graph) and done the exercices.
+\
+I participated in the **[Manthan, Codefest 18 (rated, Div. 1 + Div. 2)](http://codeforces.com/contest/1037)**, and for the first time in a CF contest i solved 3 problems, and 1 after the contest finished.
