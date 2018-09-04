@@ -142,3 +142,12 @@ And we've done a contest where i've solved 4 problems out of 7, which is a big i
 **Thoughts :** Today i started with Data Structures with Our Own Libraries section, i finished the 2.4.1 section (Graph) and done the exercices.
 \
 I participated in the **[Manthan, Codefest 18 (rated, Div. 1 + Div. 2)](http://codeforces.com/contest/1037)**, and for the first time in a CF contest i solved 3 problems, and 1 after the contest finished.
+
+---
+
+> `DAY 15` : September 4, 2018
+**description :** Finish the Lecture 1 of Level 1 from SolverToBe training.
+
+**Thoughts :** This lecture was introducing STL, and how to use it in ACM ICPC regional competitions.
+\
+I've learned (Vector, Pair, Queue, Stack, Heap) & applied using codeforces problems.
