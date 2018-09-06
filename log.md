@@ -151,3 +151,21 @@ I participated in the **[Manthan, Codefest 18 (rated, Div. 1 + Div. 2)](http://c
 **Thoughts :** This lecture was introducing STL, and how to use it in ACM ICPC regional competitions.
 \
 I've learned (Vector, Pair, Queue, Stack, Heap) & applied using codeforces problems.
+
+---
+
+> `DAY 16` : September 5, 2018
+**description :** Continue with jcpc training on SolverToBe.
+
+**Thoughts :** I finished the first 4 parts of the 2nd Lecture, where i revised the map data structure & frequency array. with some applications on codeforces.
+\
+i participated in codeforces round and got +139, which changes my rating from newbie to pupil.
+
+---
+
+> `DAY 17` : September 6, 2018
+**description :** Continue with jcpc training on SolverToBe.
+
+**Thoughts :** I finished the Lecture 2 of level 1, with the applications on codeforces.
+\
+i participated in a new codeforces round & solved 3 problems.
