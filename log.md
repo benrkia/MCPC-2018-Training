@@ -192,3 +192,23 @@ i participated in a new codeforces round & solved 3 problems.
 **Thoughts :** I finished the Lecture 4 of Level 1 of this training with all the applications.
 \
 This level was really enjoying and rich of information. and by solving 3 to 5 problems for each topic, this a very good understanding of the topic and it's variations.
+
+---
+
+> `DAY 21` : September 11, 2018  
+**description :** Continue with jcpc training on SolverToBe.
+
+**Thoughts :** started the 5th lecture of level 1, which is about binary search.
+\
+i did i virtual contest to check if i'm capable of solving the problems in 2 hours before the editorial. i solved one problem. then i up solved the other problem (beyond 2 hours).
+\
+I was capable o solving all the problems of level 1 (without watching the editorial). and after watching my solutions were good. but the problem that i have know is i take long time to solve. 20~40 min per problem.
+
+---
+
+> `DAY 22` : September 12, 2018  
+**description :** I finished the level 1 of the JCPC training
+
+**Thoughts :** I made a virtual contest for the week 1, which is a sum of what we studied till now.
+\
+next step is starting level 2, thing that i'm so excited about because i'll read graph theory & dynamic programming :).
