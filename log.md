@@ -212,3 +212,14 @@ I was capable o solving all the problems of level 1 (without watching the editor
 **Thoughts :** I made a virtual contest for the week 1, which is a sum of what we studied till now.
 \
 next step is starting level 2, thing that i'm so excited about because i'll read graph theory & dynamic programming :).
+
+---
+
+> `DAY 23` : September 13, 2018  
+**description :** I started Level of JCPC training
+
+**Thoughts :** the 1st 3 videos were about (binary search, recursion, two pointers)
+\
+it was a revision of these topics, and i took the chance to revise the week 1 problems. and see if i can do better. also solve the last 2 problems of the level 1, which means i solved all the problems of level 1.
+\
+**Next Step :** before completing in level 2 training i'll solve problems in hackerearth related to the topics i've leant (Binary Search, Recursion, Two Pointers, Frequency Array, Cumulative Sum, Data Structures). my goal is to solve at least 10 problems per topic.
